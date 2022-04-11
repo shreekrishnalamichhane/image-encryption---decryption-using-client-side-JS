@@ -72,4 +72,4 @@ This project is licensed under **MIT License**.
 
 Thank you for visiting. Make sure to try it out. If you love this project give it a star.
 
-[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS/star)
+[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS)
