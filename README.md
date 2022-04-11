@@ -36,13 +36,13 @@ git clone ...
 
 You can `fork` this project.
 
-[![fork this repo](https://img.shields.io/github/forks/shreekrishnalamichhane/...?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/.../fork)
+[![fork this repo](https://img.shields.io/github/forks/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS/fork)
 
 To run the project, visit included `index.html` in browser.
 
 ## Demo
 
-Self Hosted Demo: [Will be added later]()
+Self Hosted Demo: [Click here](https://projects.shreekrishnalamichhane.com.np/image-encryption---decryption-using-client-side-JS/)
 
 ## Tests
 
@@ -66,10 +66,10 @@ Anyone can contribute me on this project. Check the [installation](#installation
 
 This project is licensed under **MIT License**.
 
-[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/terminal-chat-with-room?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
 Thank you for visiting. Make sure to try it out. If you love this project give it a star.
 
-[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/...?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/...)
+[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS/star)
