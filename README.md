@@ -29,7 +29,7 @@ This application uses the following libraries.
 You can clone the whole project.
 
 ```
-git clone ...
+git clone https://github.com/shreekrishnalamichhane/image-encryption---decryption-using-client-side-JS.git
 ```
 
 **OR**
