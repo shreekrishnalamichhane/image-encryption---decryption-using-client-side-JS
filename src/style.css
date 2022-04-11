@@ -1,0 +1,68 @@
+body {
+    padding: 15px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 25px;
+}
+
+input {
+    margin: 12px 12px 12px 0px;
+    padding: 5px;
+    border-radius: 0;
+    border: 1px solid black;
+    width: 100%;
+}
+
+button {
+    padding: 10px 25px;
+    border-radius: 0;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    background: rgb(82, 82, 82);
+    cursor: pointer;
+}
+
+button:focus {
+    border-radius: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50vw;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+tr,
+th,
+td {
+    padding: 10px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+section{
+    padding: 10px;
+}
+section h3{
+    color: rgb(31, 30, 30);
+    padding-left: 25px;
+}
+ol li{
+    color: rgb(56, 56, 56);
+}
